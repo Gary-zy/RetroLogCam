@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "RetroLog Cam - 复古 CCD 数码相机"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "复古 CCD 数码相机应用，提供 D-Log 电影模式和多种复古滤镜"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "RetroLog Cam"
+    },
+    {
+      "name": "camera_permission_reason",
+      "value": "用于拍摄照片和视频"
+    },
+    {
+      "name": "microphone_permission_reason",
+      "value": "用于录制视频时的音频采集"
+    },
+    {
+      "name": "storage_permission_reason",
+      "value": "用于保存和读取照片到相册"
+    },
+    {
+      "name": "vibrate_permission_reason",
+      "value": "用于提供触感反馈"
+    }
+  ]
+}

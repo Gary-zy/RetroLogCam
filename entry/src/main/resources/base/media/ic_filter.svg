@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M19,10 L19,2 L7,2 L8.72,7.18 L19,17.46 L19,10 Z M3.27,3 L2,4.27 L8,10.27 L8,11 L4,11 L13,22 L13,15.27 L18.73,21 L20,19.73 L3.27,3 Z" fill="#000000" fill-rule="nonzero"/>
+    <!-- Wait, that was flash off. Let's do magic sparkles -->
+    <path d="M19,9 L21,7 L19,5 L17,7 L19,9 Z M10.5,10.5 L7,9 L3.5,10.5 L5,14 L3.5,17.5 L7,19 L10.5,17.5 L9,14 L10.5,10.5 Z M19,19 L21,17 L19,15 L17,17 L19,19 Z M19,3 L15,3 L15,7 L19,7 L19,3 Z M17,5 L17,5 L17,5 L17,5 Z" fill="#000000" fill-rule="nonzero"/>
+</svg>
